@@ -1,11 +1,9 @@
+Yook Roommate Management System - React.js project
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0wrsx4Jb)
 # Final Project
 Video: https://github.com/neu-mis-info-6150-spring-2023/final-project-group-rcb/blob/main/final.mp4
 ### App name → **uuke** (/yo͞ok/) A house management application
-
-### Team Members -
-Siddhartha Bariker
-Harshita Ranganath
 
 ### **Instructions to run →**
 1. Clone repo
@@ -46,11 +44,11 @@ The House Management App is a software solution designed to help housemates mana
 
 ### Milestones →
 
-1. Project Planning and User Login: (Assigned to Siddhartha)
+1. Project Planning and User Login: 
 Creating user login and user preference settings.  User Stories [1,2]
-2. Implementation of the following features: (Assigned to Siddhartha)
+2. Implementation of the following features: 
 Creation of events, announcements - User Stories [4,6]
-3. Shopping list, Charts and reporting, expense management: (Assigned to Harshita)
+3. Shopping list, Charts and reporting, expense management: 
 User Stories [3,5,7,8]
 
 Overall, the House Management App helps housemates manage their household responsibilities more efficiently, reduce conflicts, and improve the overall experience of living together.
